@@ -1,0 +1,8 @@
+License:
+Settings:
+  CoolDownInSeconds: 1
+  EnableKickbackEffect: true
+  KickBackChance: 4
+  maxDistance: 312
+WorldGuard:
+  UseCustomFlags: true
